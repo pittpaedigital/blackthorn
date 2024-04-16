@@ -1,0 +1,12 @@
+.event-details .event-name {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3rem!important;
+    line-height: calc(1.25* var(--lineHeightFactor));
+    text-align: center;
+    letter-spacing: .125rem;
+}
+
+#tickets-section {
+    display:none!important;
+}
